@@ -18,7 +18,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 ### 🗂️ Projects  
 [``UI/UX Design``]() [``Frontend Projects``]() [``Admin Dashboards``]() [``E-commerce``]() [``Testing Playground``]()  
 
-(Links can be updated to specific GitHub repos or markdown files in your profile repo.)
+(Links to be updated...)
 
 ##
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 
 | Languages | **Design** | **Frontend** | **Tools** |
 |-----------|------------|--------------|-----------|
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) | Figma, Canva | React, Next.js, Tailwind, shadcn/ui | Git, GitHub, Postman, VS Code |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) `shadcn/ui` | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
 ##
 
