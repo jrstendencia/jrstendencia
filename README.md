@@ -41,7 +41,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 
 ---
 
-**Portfolio is live at:** [https://jasmin-tendencia.github.io](https://jasmin-tendencia.github.io) 🚀
+**Portfolio is live at:** [https://tendencia-portfolio.vercel.app/](https://tendencia-portfolio.vercel.app/) 🚀
 
 _This README is brought to you by caffeine, Tailwind, and a few too many Figma tabs._
 
