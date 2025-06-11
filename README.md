@@ -41,7 +41,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 
 ---
 
-**Portfolio is live at:** [![Visit](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://tendencia-portfolio.vercel.app/)🚀
+**Portfolio is live at:** [![Visit](https://img.shields.io/badge/Visit%20-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://tendencia-portfolio.vercel.app/)🚀
 
 _This README is brought to you by caffeine, Tailwind, and a few too many Figma tabs._
 
