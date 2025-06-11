@@ -1,5 +1,5 @@
 ## Hello there! 👋 
-[![Portfolio Website](tendencia-portfolio.vercel.app/)
+[![Portfolio Website](tendencia-portfolio.vercel.app/)]
 
 Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean code**, and some *"may konting magic."* 🪄✨
 
