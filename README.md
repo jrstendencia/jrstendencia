@@ -37,7 +37,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 ##
 
 ### 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jasmin-tendencia&theme=rose_pine)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jrstendencia&theme=rose_pine)](https://git.io/streak-stats)
 
 ---
 
