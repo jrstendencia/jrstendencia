@@ -1,5 +1,5 @@
 ## Hello there! 👋 
-[![Portfolio Website](tendencia-portfolio.vercel.app/)]
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-4CAF50?style=flat&logo=web&logoColor=white&color=1C1C1C)](https://tendencia-portfolio.vercel.app/)
 
 Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean code**, and some *"may konting magic."* 🪄✨
 
