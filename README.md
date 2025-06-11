@@ -6,9 +6,9 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 ##
 
 ### 🙋 Introduction
-- 🌱 Frontend Developer | Learning QA | Still laughing at console.log jokes.
+- 🌱 Frontend Developer | Learning Fullstack & QA | Still laughing at console.log jokes.
 - 🛠️ Skills in:
-  - **Front-end**: React, Next.js, Tailwind CSS, shadcn/ui
+  - **Front-end**: React, Next.js, Tailwind CSS, Bootstrap
   - **Design**: Figma, Canva
   - **E-commerce Development**
   - **Admin Dashboards** w/ modal, dynamic routes, seller management
@@ -16,7 +16,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 ##
 
 ### 🗂️ Projects  
-[``UI/UX Design``]() [``Frontend Projects``]() [``Admin Dashboards``]() [``E-commerce``]() [``QA Testing Playground``]()  
+[``UI/UX Design``]() [``Frontend Projects``]() [``Admin Dashboards``]() [``E-commerce``]() [``Testing Playground``]()  
 
 (Links can be updated to specific GitHub repos or markdown files in your profile repo.)
 
@@ -32,8 +32,7 @@ Welcome to my GitHub profile — your one-stop shop for **cool UI**, **clean cod
 
 ### 🧪 Currently Exploring:
 - Backend Integration (REST APIs)
-- Form validation and modals
-- Deployments via **Vercel**, GitHub Pages, and maybe ✨magic✨
+- QA Testing, Penetration Testing, and maybe ✨magic✨
 
 ##
 
